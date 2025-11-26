@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+[dir="rtl"] .rtl-carousel {
+  direction: rtl;
+}
